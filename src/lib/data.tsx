@@ -432,7 +432,7 @@ export const data: Data = [
         <p>
           For other customers, I would imagine questions around software
           architecture, such as which services are most appropriate for their
-          use case, and performance, such as caching strategies, would me
+          use case, and performance, such as caching strategies, would be
           common.
         </p>
       </article>
